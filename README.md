@@ -13,8 +13,7 @@ Rust Console Edition Command Library Extension is a powerful Chrome extension de
 - **Search Functionality:** Quickly find the command or item you need using the built-in search feature.
 - **Direct Command Execution:** Execute commands directly in the game console with just a click.
 - **Items Menu:** Browse through all available items and insert them into the game effortlessly.
-- **User-Friendly Interface:** Clean and intuitive design that fits seamlessly with your browser and gaming setup.
-- **Quick Access Links:** Install VenomLog for Rust Console Edition directly from the extension for enhanced gameplay logging.
+- **User-Friendly Interface:** Clean and intuitive design that fits seamlessly with your browser.
 
 ## Usage
 
